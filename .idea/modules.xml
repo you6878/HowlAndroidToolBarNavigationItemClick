@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HowlToolBar.iml" filepath="$PROJECT_DIR$/HowlToolBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HowlToolBarNavigation.iml" filepath="$PROJECT_DIR$/HowlToolBarNavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
